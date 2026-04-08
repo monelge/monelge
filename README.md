@@ -9,12 +9,15 @@
 
 ---
 
-### 🚀 Profesyonel Odak & Vizyon
-2005'dan bu yana kurumsal yazılım ekosisteminde, özellikle **Lojistik, ERP ve Fintek** sektörlerinde yüksek ölçekli projeler geliştiriyorum. Kodun sadece çalışmasına değil, "baskı altında sürdürülebilir olmasına" odaklanan bir mühendislik anlayışına sahibim.
+### 🚀 Vizyon & Mühendislik Yaklaşımım
+Yazılım dünyasına 2006 yılında adım attığımdan beri, teknolojiyi sadece bir araç değil; karmaşık iş problemlerini çözen ve hayatı kolaylaştıran bir enstrüman olarak görüyorum. **Lojistik, ERP ve Fintek** gibi kritik sektörlerde, sistemlerin kalbinde yer alan dayanıklı mimariler inşa ediyorum.
 
-* 🏗️ **Architectural Mindset:** Clean Architecture, CQRS, MediatR ve Domain-Driven Design (DDD).
-* 🧠 **AI-Assisted Workflow:** Geliştirme süreçlerimi `.agent`, `.grok` ve AI destekli workflow'lar ile optimize ediyorum.
-* ⚡ **Performance:** Yüksek trafikli sistemlerde Redis ve Elasticsearch entegrasyonları ile ölçeklenebilir çözümler.
+Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç göstermeyen, baskı altında ayakta kalan ve okunduğunda bir hikaye anlatan** yazılımdır.
+
+* 🏗️ **Sistem Mimarı:** Clean Architecture ve DDD prensiplerini bir zorunluluk değil, projenin geleceğine yapılan bir yatırım olarak görüyorum. Kendi framework'üm olan **NovaCleanArch** ile sürdürülebilirliği standart hale getiriyorum.
+* 🤝 **İnsan Odaklı Çözüm:** Teknolojinin merkezinde insanın olduğunu unutmadan; son kullanıcı için basit, geliştirici için ise yönetilebilir ekosistemler kurmayı hedefliyorum.
+* 🤖 **AI & Gelecek:** Yapay zekayı iş akışımın ayrılmaz bir parçası haline getirerek, tekrarlayan görevler yerine inovasyona ve yaratıcı mimari çözümlere odaklanıyorum.
+* 🏭 **Endüstriyel Deneyim:** Yazılımın dijital dünyası ile fiziksel üretimin (IoT, OPC-UA) kesiştiği noktada, süreçleri daha akıllı hale getirmekten heyecan duyuyorum.
 
 ---
 
@@ -43,10 +46,11 @@
 * **[NovaCleanArch](https://github.com/monelge)**: Kurumsal düzeyde .NET projeleri için geliştirdiğim, Clean Architecture tabanlı framework.
 * **WareLogisticcBYS**: Docker ve Jenkins pipeline'ları ile güçlendirilmiş uçtan uca Depo Yönetim Sistemi.
 * **NexusERP**: Karmaşık iş süreçlerini ve alaşım yönetimini optimize eden kurumsal ERP çözümü.
+* **PoliNexus**: Redis entegrasyonu ve AI destekli geliştirme süreçleriyle kurgulanmış yüksek performanslı bir yapı.
 
 ---
 
-### 📫 İletişim & Sosyal Medya
+### 📫 Benimle Bağlantı Kur
 <p align="left">
 <a href="https://linkedin.com/in/monelge" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://dev.to/monelge" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
