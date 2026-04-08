@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monelge&label=Profile%20views&color=0e75b6&style=flat" alt="monelge" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monelge" alt="monelge" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/33961151?v=4" alt="monelge" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/monelge" target="blank"><img src="https://img.shields.io/twitter/follow/monelge?logo=twitter&style=for-the-badge" alt="monelge" /></a> </p>
 
