@@ -10,67 +10,50 @@
 ---
 
 ### 🚀 Vizyon & Mühendislik Yaklaşımım
-Yazılım dünyasına 2006 yılında adım attığımdan beri, teknolojiyi sadece bir araç değil; karmaşık iş problemlerini çözen ve hayatı kolaylaştıran bir enstrüman olarak görüyorum. **Lojistik, ERP ve Fintek** gibi kritik sektörlerde, sistemlerin kalbinde yer alan dayanıklı mimariler inşa ediyorum.
-
-Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç göstermeyen, baskı altında ayakta kalan ve okunduğunda bir hikaye anlatan** yazılımdır.
+Yazılım serüvenine **Pascal ve Visual Basic** ile başlayan, temellerini **Delphi**'nin güçlü OOP yapısıyla atan bir mühendis olarak; bugün modern web ve mobil teknolojileri bu sağlam tecrübenin üzerine inşa ediyorum. **Lojistik, ERP, Sigorta ve Fintek** gibi kritik sektörlerde, sistemlerin kalbinde yer alan dayanıklı mimariler tasarlıyorum.
 
 * 🏗️ **Sistem Mimarı:** Clean Architecture ve DDD prensiplerini projenin geleceğine yapılan bir yatırım olarak görüyorum. **NovaCleanArch** ile sürdürülebilirliği standart hale getiriyorum.
 * 🤝 **İnsan Odaklı Çözüm:** Teknolojinin merkezinde insanın olduğunu unutmadan; son kullanıcı için basit, geliştirici için ise yönetilebilir ekosistemler kuruyorum.
 * 🤖 **AI & Gelecek:** Yapay zekayı iş akışımın ayrılmaz bir parçası haline getirerek inovasyona ve yaratıcı mimari çözümlere odaklanıyorum.
 
 ---
+
 ### 📈 Kariyer Zaman Çizelgesi
-| Yıl | Odak Noktası ve Projeler |
+| Dönem | Odak Noktası ve Projeler |
 | :--- | :--- |
-| **2026** | **NexusERP**, AlisverisSitesi, WareLogisticcBYS (Aktif) |
-| **2025** | PoliNexus, DistAlloy, OSBYonetim, CimpactConnect |
-| **2024** | WareLogistic, PaymentManager, Gamesupplement |
-| **2023** | CRM Sistemleri (**IonBee, Adel**), Payment Management |
-| **2022** | JavaScript Expansion, Java Spring (Lojistik & ERP) |
-| **2021** | .NET Kurumsal Projeler (ABYS, PersonelIntra, Adex) |
-| **2020** | E-Fatura Entegrasyonları, FlowSy |
-| **2019** |  Flutter/Dart & HTML (Araç Görevlendirme) |
+| **2026** | **NexusERP**, AlisverisSitesi, WareLogisticcBYS (Aktif Geliştirme) |
+| **2024 - 2025** | **PoliNexus**, DistAlloy, OSBYonetim, WareLogistic, PaymentManager |
+| **2022 - 2023** | CRM Sistemleri (**IonBee, Adel**), Java Spring (Lojistik & ERP) |
+| **2019 - 2021** | .NET Kurumsal Projeler, Flutter/Dart Mobil Dönüşümü, E-Fatura Entegrasyonları |
+| **2010 - 2019** | **Delphi 6 & 7** ile Kurumsal Masaüstü Çözümleri ve Veritabanı Yönetimi |
+| **Başlangıç** | Yazılıma İlk Adım: **Visual Basic & Pascal** (Temel Programlama ve Algoritma) |
 
 ---
 
 ### 🏭 Sektörel Uzmanlık (Domain Expertise)
-Geniş bir yelpazede, iş mantığı (business logic) karmaşık sektörlere çözümler ürettim:
 * 📦 **Lojistik & Depo Yönetimi (WMS)**
 * 🛡️ **Sigorta & Finansal Teknolojiler**
 * ⚡ **EV Teknolojisi (Elektrikli Araç Şarj Sistemleri)**
 * ⚙️ **Endüstriyel Otomasyon (OPC-UA, OSB Yönetimi)**
-* 🛒 **E-Ticaret & Ödeme Sistemleri**
 * 👥 **HR & Kurumsal Kaynak Planlama (ERP)**
 
 ---
-### 🛠️ Teknoloji Yetkinlikleri
 
+### 🛠️ Teknoloji Yetkinlikleri
 | Alan | Teknolojiler |
 | :--- | :--- |
-| **Backend** | .NET (C#) `Expert`, Node.js, Java Spring, Python |
+| **Backend** | .NET (C#) `Expert`, Node.js, Java Spring, Python, **Delphi** |
 | **Frontend** | Angular, React, Flutter (Dart), JavaScript (ES6+), Bootstrap |
 | **Database & Cache** | PostgreSQL, MSSQL, Redis, Elasticsearch |
-| **DevOps & Infrastructure** | Docker, Jenkins (CI/CD), AWS, GCP, Qodana |
-| **Industrial Protocols** | OPC-UA, IoT Integration, Industrial Automation Systems |
+| **DevOps & Infra** | Docker, Jenkins (CI/CD), AWS, GCP, Qodana |
 
 ---
 
 ### 📊 Performans & İstatistikler
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monelge&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monelge&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monelge&layout=compact&theme=tokyonight" width="41%" />
 </p>
-
----
-
-### 🏗️ Öne Çıkan Projeler
-
-* **[NovaCleanArch](https://github.com/monelge)**: Kurumsal düzeyde .NET projeleri için geliştirdiğim, Clean Architecture tabanlı framework.
-* **WareLogistic BYS**: Docker ve Jenkins pipeline'ları ile güçlendirilmiş uçtan uca Depo Yönetim Sistemi.
-* **IonBee CRM**: Elektrikli araç şarj ve batarya sistemleri için kurgulanmış, yüksek veri yoğunluklu yönetim paneli.
-* **Sigorta BYS**: Sigorta süreçlerini dijitalleştiren, karmaşık iş kurallarını yöneten kurumsal çözüm.
-* **Nexus ERP**: Kurumsal kaynak planlaması ve endüstriyel veri takibi için geliştirilen ölçeklenebilir sistem.
-
----
 
 ---
 
