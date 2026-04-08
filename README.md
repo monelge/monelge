@@ -34,11 +34,6 @@ Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç 
 
 ### 📊 Performans & İstatistikler
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monelge&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monelge&layout=compact&theme=tokyonight" width="41%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monelge&theme=tokyonight" width="90%" />
 </p>
 
