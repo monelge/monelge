@@ -35,10 +35,14 @@ Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç 
 
 ### 📊 Performans & İstatistikler
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=monelge&show_icons=true&theme=dark&locale=en&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monelge&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=monelge&show_icons=true&theme=tokyonight&locale=en" alt="Mehmet's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monelge&layout=compact&theme=tokyonight" alt="Mehmet's Top Languages" width="41.5%" />
 </p>
 
+### 📈 Çalışma Sürekliliği
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monelge&theme=tokyonight" alt="Mehmet's Streak" width="90%" />
+</p>
 ---
 
 ### 🏗️ Öne Çıkan Projeler
