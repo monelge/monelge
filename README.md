@@ -19,7 +19,30 @@ Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç 
 * 🤖 **AI & Gelecek:** Yapay zekayı iş akışımın ayrılmaz bir parçası haline getirerek inovasyona ve yaratıcı mimari çözümlere odaklanıyorum.
 
 ---
+### 📈 Kariyer Zaman Çizelgesi
+| Yıl | Odak Noktası ve Projeler |
+| :--- | :--- |
+| **2026** | **NexusERP**, MeteAlisverisSitesi, WareLogisticcBYS (Aktif) |
+| **2025** | PoliNexus, DistAlloy, OSBYonetim, CimpactConnect |
+| **2024** | WareLogistic, PaymentManager, Gamesupplement |
+| **2023** | CRM Sistemleri (**IonBee, Adel**), Payment Management |
+| **2022** | JavaScript Expansion, Java Spring (Lojistik & ERP) |
+| **2021** | .NET Kurumsal Projeler (ABYS, PersonelIntra, Adex) |
+| **2020** | E-Fatura Entegrasyonları, FlowSy |
+| **2019** |  Flutter/Dart & HTML (Araç Görevlendirme) |
 
+---
+
+### 🏭 Sektörel Uzmanlık (Domain Expertise)
+Geniş bir yelpazede, iş mantığı (business logic) karmaşık sektörlere çözümler ürettim:
+* 📦 **Lojistik & Depo Yönetimi (WMS)**
+* 🛡️ **Sigorta & Finansal Teknolojiler**
+* ⚡ **EV Teknolojisi (Elektrikli Araç Şarj Sistemleri)**
+* ⚙️ **Endüstriyel Otomasyon (OPC-UA, OSB Yönetimi)**
+* 🛒 **E-Ticaret & Ödeme Sistemleri**
+* 👥 **HR & Kurumsal Kaynak Planlama (ERP)**
+
+---
 ### 🛠️ Teknoloji Yetkinlikleri
 
 | Alan | Teknolojiler |
