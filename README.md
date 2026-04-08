@@ -42,8 +42,12 @@ Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç 
 ### 🏗️ Öne Çıkan Projeler
 
 * **[NovaCleanArch](https://github.com/monelge)**: Kurumsal düzeyde .NET projeleri için geliştirdiğim, Clean Architecture tabanlı framework.
-* **WareLogisticcBYS**: Docker ve Jenkins pipeline'ları ile güçlendirilmiş uçtan uca Depo Yönetim Sistemi.
-* **NexusERP**: Karmaşık iş süreçlerini ve alaşım yönetimini optimize eden kurumsal ERP çözümü.
+* **WareLogistic BYS**: Docker ve Jenkins pipeline'ları ile güçlendirilmiş uçtan uca Depo Yönetim Sistemi.
+* **IonBee CRM**: Elektrikli araç şarj ve batarya sistemleri için kurgulanmış, yüksek veri yoğunluklu yönetim paneli.
+* **Sigorta BYS**: Sigorta süreçlerini dijitalleştiren, karmaşık iş kurallarını yöneten kurumsal çözüm.
+* **Nexus ERP**: Kurumsal kaynak planlaması ve endüstriyel veri takibi için geliştirilen ölçeklenebilir sistem.
+
+---
 
 ---
 
