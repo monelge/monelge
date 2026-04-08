@@ -14,10 +14,9 @@ Yazılım dünyasına 2006 yılında adım attığımdan beri, teknolojiyi sadec
 
 Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç göstermeyen, baskı altında ayakta kalan ve okunduğunda bir hikaye anlatan** yazılımdır.
 
-* 🏗️ **Sistem Mimarı:** Clean Architecture ve DDD prensiplerini bir zorunluluk değil, projenin geleceğine yapılan bir yatırım olarak görüyorum. Kendi framework'üm olan **NovaCleanArch** ile sürdürülebilirliği standart hale getiriyorum.
-* 🤝 **İnsan Odaklı Çözüm:** Teknolojinin merkezinde insanın olduğunu unutmadan; son kullanıcı için basit, geliştirici için ise yönetilebilir ekosistemler kurmayı hedefliyorum.
-* 🤖 **AI & Gelecek:** Yapay zekayı iş akışımın ayrılmaz bir parçası haline getirerek, tekrarlayan görevler yerine inovasyona ve yaratıcı mimari çözümlere odaklanıyorum.
-* 🏭 **Endüstriyel Deneyim:** Yazılımın dijital dünyası ile fiziksel üretimin (IoT, OPC-UA) kesiştiği noktada, süreçleri daha akıllı hale getirmekten heyecan duyuyorum.
+* 🏗️ **Sistem Mimarı:** Clean Architecture ve DDD prensiplerini projenin geleceğine yapılan bir yatırım olarak görüyorum. **NovaCleanArch** ile sürdürülebilirliği standart hale getiriyorum.
+* 🤝 **İnsan Odaklı Çözüm:** Teknolojinin merkezinde insanın olduğunu unutmadan; son kullanıcı için basit, geliştirici için ise yönetilebilir ekosistemler kuruyorum.
+* 🤖 **AI & Gelecek:** Yapay zekayı iş akışımın ayrılmaz bir parçası haline getirerek inovasyona ve yaratıcı mimari çözümlere odaklanıyorum.
 
 ---
 
@@ -35,14 +34,14 @@ Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç 
 
 ### 📊 Performans & İstatistikler
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=monelge&show_icons=true&theme=tokyonight&locale=en" alt="Mehmet's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monelge&layout=compact&theme=tokyonight" alt="Mehmet's Top Languages" width="41.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monelge&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monelge&layout=compact&theme=tokyonight" width="41%" />
 </p>
 
-### 📈 Çalışma Sürekliliği
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monelge&theme=tokyonight" alt="Mehmet's Streak" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monelge&theme=tokyonight" width="90%" />
 </p>
+
 ---
 
 ### 🏗️ Öne Çıkan Projeler
@@ -50,7 +49,6 @@ Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç 
 * **[NovaCleanArch](https://github.com/monelge)**: Kurumsal düzeyde .NET projeleri için geliştirdiğim, Clean Architecture tabanlı framework.
 * **WareLogisticcBYS**: Docker ve Jenkins pipeline'ları ile güçlendirilmiş uçtan uca Depo Yönetim Sistemi.
 * **NexusERP**: Karmaşık iş süreçlerini ve alaşım yönetimini optimize eden kurumsal ERP çözümü.
-* **PoliNexus**: Redis entegrasyonu ve AI destekli geliştirme süreçleriyle kurgulanmış yüksek performanslı bir yapı.
 
 ---
 
@@ -60,10 +58,4 @@ Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç 
 <a href="https://dev.to/monelge" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://twitter.com/monelge" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/10613298/mehmet-%c3%b6nelge" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monelge&theme=dark&hide_border=true" alt="Mehmet's Streak" />
 </p>
