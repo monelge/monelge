@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Profesyonel Odak & Vizyon
-2019'dan bu yana kurumsal yazılım ekosisteminde, özellikle **Lojistik, ERP ve Fintek** sektörlerinde yüksek ölçekli projeler geliştiriyorum. Kodun sadece çalışmasına değil, "baskı altında sürdürülebilir olmasına" odaklanan bir mühendislik anlayışına sahibim.
+2005'dan bu yana kurumsal yazılım ekosisteminde, özellikle **Lojistik, ERP ve Fintek** sektörlerinde yüksek ölçekli projeler geliştiriyorum. Kodun sadece çalışmasına değil, "baskı altında sürdürülebilir olmasına" odaklanan bir mühendislik anlayışına sahibim.
 
 * 🏗️ **Architectural Mindset:** Clean Architecture, CQRS, MediatR ve Domain-Driven Design (DDD).
 * 🧠 **AI-Assisted Workflow:** Geliştirme süreçlerimi `.agent`, `.grok` ve AI destekli workflow'lar ile optimize ediyorum.
