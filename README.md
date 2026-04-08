@@ -22,7 +22,7 @@ Benim için iyi bir yazılım, sadece "çalışan" değil; **değişime direnç 
 ### 📈 Kariyer Zaman Çizelgesi
 | Yıl | Odak Noktası ve Projeler |
 | :--- | :--- |
-| **2026** | **NexusERP**, MeteAlisverisSitesi, WareLogisticcBYS (Aktif) |
+| **2026** | **NexusERP**, AlisverisSitesi, WareLogisticcBYS (Aktif) |
 | **2025** | PoliNexus, DistAlloy, OSBYonetim, CimpactConnect |
 | **2024** | WareLogistic, PaymentManager, Gamesupplement |
 | **2023** | CRM Sistemleri (**IonBee, Adel**), Payment Management |
